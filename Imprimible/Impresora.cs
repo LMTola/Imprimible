@@ -13,16 +13,9 @@ namespace Imprimible
 
         public void AgregarImprimible(Imprimible unImprimible)
         {
-            //Contrato contrato = new Contrato();
+            
             ColaDeImpresion.Add(unImprimible);
-
-          // Foto foto = new Foto();
-           // ColaDeImpresion.Add(foto);
-
-           //Documento documento = new Documento();
-           // ColaDeImpresion.Add(documento);
-
-           
+            
         }
         public void ImprimirTodo()
         {
