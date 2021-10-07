@@ -17,6 +17,7 @@ namespace Imprimible
             imprimir.AgregarImprimible(documento);
 
             imprimir.ImprimirTodo();
+
             Console.ReadKey();
 
 

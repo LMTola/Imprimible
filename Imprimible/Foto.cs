@@ -8,8 +8,6 @@ namespace Imprimible
 {
     class Foto : Imprimible
     {
-
-
         public void Imprimir()
         {
             Console.WriteLine ("Soy Una Selfie pal insta...");
